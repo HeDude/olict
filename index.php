@@ -14,8 +14,8 @@
 
 <body>
     <section>
-            <h2 style="text-align: center">Elict is een fork van <a href="https://www.codeniacs.nl">Codeniacs<a/></h2>
-            <p style="text-align: center">Elict zal starten in schooljaar 2020-2021</p>
+            <h2 style="text-align: center">Olict is de Nederlandse versie van <a href="https://wwwelict.org">Elict</a> een fork van <a href="https://www.codeniacs.nl">Codeniacs<a/></h2>
+            <p style="text-align: center">Olict zal starten in schooljaar 2020-2021</p>
     </section>
 </body>
 </html>
